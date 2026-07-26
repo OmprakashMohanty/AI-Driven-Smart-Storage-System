@@ -1,12 +1,12 @@
 # 🧠 AI-Driven Smart Storage System for Spoilage Detection and Shelf Life Prediction
 
-An end-to-end AI-powered system that uses **computer vision** and **machine learning** to detect food spoilage and predict the remaining shelf life of perishable items — helping reduce food waste and optimize storage management.
+An end-to-end AI-powered system that uses **computer vision** and **machine learning** to detect food spoilage and predict the remaining shelf life of perishable items — helping reduce food waste and improve storage decisions.
 
 ---
 
 ## 📌 Overview
 
-Food spoilage costs billions annually and contributes significantly to global food waste. This project addresses the problem by combining **image classification** with **shelf life prediction** models to build an intelligent storage system capable of:
+Food spoilage costs billions annually and contributes significantly to global food waste. This project addresses the problem by combining **image classification** with **shelf life prediction** models.
 
 - Automatically identifying whether a food item is **fresh or spoiled** from an image
 - Predicting the **remaining shelf life** (in days) of a stored item based on its condition and environmental factors
@@ -44,7 +44,6 @@ Food spoilage costs billions annually and contributes significantly to global fo
 | Machine Learning | Scikit-learn |
 | Data Processing | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
-| Image Processing | OpenCV, PIL |
 
 ---
 
@@ -94,7 +93,7 @@ cd AI-Driven-Smart-Storage-System-for-Spoilage-Detection-and-Shelf-Life-Predicti
 2. **Install required dependencies:**
 
 ```bash
-pip install tensorflow scikit-learn pandas numpy matplotlib seaborn opencv-python pillow
+pip install tensorflow scikit-learn pandas numpy matplotlib seaborn pillow
 ```
 
 3. **Launch Jupyter Notebook:**
