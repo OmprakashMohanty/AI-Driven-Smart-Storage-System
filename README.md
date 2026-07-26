@@ -6,7 +6,7 @@ An end-to-end AI-powered system that uses **computer vision** and **machine lear
 
 ## 📌 Overview
 
-Food spoilage costs billions annually and contributes significantly to global food waste. This project addresses the problem by combining **image classification** with **shelf life prediction** models.
+Food spoilage costs billions annually and contributes significantly to global food waste. This project addresses the problem by combining **image classification** with **shelf life prediction** models to support smarter inventory and storage management.
 
 - Automatically identifying whether a food item is **fresh or spoiled** from an image
 - Predicting the **remaining shelf life** (in days) of a stored item based on its condition and environmental factors
@@ -158,8 +158,8 @@ This project is open source. Feel free to use, modify, and distribute it with at
 
 ## 👤 Author
 
-**Shameem7004**  
-GitHub: [@Shameem7004](https://github.com/Shameem7004)
+**Omprakash Mohanty**  
+B tech, NIT Rourkela
 
 ---
 
